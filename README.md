@@ -4,22 +4,22 @@ Sistema inmersivo de recuerdos desarrollado para la asignatura Interacción Pers
 
 TimeBack explora cómo podrían utilizarse futuras lentillas inteligentes para capturar, organizar y revivir recuerdos desde la perspectiva del usuario mediante una experiencia emocional e inmersiva.
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 
-HTML
+-HTML
 
-CSS
+-CSS
 
-JavaScript
+-JavaScript
 
 
-Contenido del repositorio
+Contenido del repositorio:
 
-Prototipos iniciales e iteraciones realizadas durante el proceso de diseño
+-Prototipos iniciales e iteraciones realizadas durante el proceso de diseño
 
-Prototipo funcional de TimeBack
+-Prototipo funcional de TimeBack
 
-Informe técnico final
+-Informe técnico final
 
 
 Autores
